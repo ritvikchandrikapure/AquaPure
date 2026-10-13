@@ -5,16 +5,16 @@
 ## Screenshots
 
 ### 1. Choose water
-![AquaPure — Choose water](./aqua1.png)
+![AquaPure — Choose water](./src/images/aqua1.png)
 
 ### 2. Order summary
-![AquaPure — Order summary](./aqua2.png)
+![AquaPure — Order summary](./src/images/aqua2.png)
 
 ### 3. Customer details and payment
-![AquaPure — Payment](./aqua3.png)
+![AquaPure — Payment](./src/images/aqua3.png)
 
 ### 4. Final bill
-![AquaPure — Final bill](./aqua4.png)
+![AquaPure — Final bill](./src/images/aqua4.png)
 
 ## Features
 
